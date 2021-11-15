@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 | #  | Content |
 | ------------- | ------------- |
-| About Me  | I'm Vathiya. This is my personal workspace. I'm currently an undergraduate IT student passionate in Web Development and UX Writing. Please check my [LinkedIn](https://www.linkedin.com/in/vathiyarezky/) profile! |
+| About Me  | I'm Vathiya. This is my personal workspace. I'm currently an undergraduate IT student passionate in Web Development and UX Writing. Please also check my [LinkedIn](https://www.linkedin.com/in/vathiyarezky/) profile! Thank you. |
 
 <!--
 | Language  | ![c++](https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg)   |
