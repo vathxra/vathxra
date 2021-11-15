@@ -1,4 +1,3 @@
-### Hi👋
 <p align="center"> You've stayed on here for: </p>
 <p align="center">
 <a href="#"><img src="https://github.com/tomchen/animated-svg-clock/raw/master/clock.svg" alt="Clock" width="110px" height="110px"></a>
