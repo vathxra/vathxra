@@ -1,4 +1,5 @@
-| #  | Content |
+
+<!--- | #  | Content |
 | ------------- | ------------- |
 | About | I'm Vathiya. This is my personal workspace. I'm a fresh graduate who has a passion for QA and UX Writing. Please also check my [LinkedIn](https://www.linkedin.com/in/vathiyarezky/) profile! Thank you. |
 | Language  | <a href="https://isocpp.org/" title="C++"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" width="21px" height="21px"></a> <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="21px" height="21px"></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a> |
@@ -6,3 +7,4 @@
 | Others | <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a> <a href="https://wordpress.org/" title="WordPress"><img src="https://github.com/get-icon/geticon/raw/master/icons/wordpress-icon.svg" alt="WordPress" width="21px" height="21px"></a> <a href="https://www.jetbrains.com/idea/" title="IntelliJ IDEA"><img src="https://github.com/tomchen/stack-icons/raw/master/logos/intellij-idea.svg" alt="IntelliJ IDEA" width="21px" height="21px"></a> <a href="https://www.figma.com/" title="Figma"><img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/figma.svg" alt="Figma" width="21px" height="21px"></a> <a href="https://git-scm.com/" title="Git" rel="nofollow"><img src="https://github.com/tomchen/stack-icons/raw/master/logos/git-icon.svg" alt="Git" width="21px" height="21px"></a> <a href="https://www.postman.com/" title="Postman"><img src="https://github.com/tomchen/stack-icons/raw/master/logos/postman.svg" alt="Postman" width="21px" height="21px"></a> |
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vathxra&layout=compact)](https://github.com/vathxra/github-readme-stats) 
+-->
