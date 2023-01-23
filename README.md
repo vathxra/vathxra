@@ -1,4 +1,4 @@
-I'm Vathiya. This is my personal workspace. I'm a fresh graduate who has a passion for QA and UX Writing. Please also check my [LinkedIn](https://www.linkedin.com/in/vathiyarezky/) profile! Thank you.
+I'm Vathiya, a fresh graduate who has a passion for QA and Writing. This is my personal workspace where I put most of the projects I did during college. Please also check my [LinkedIn](https://www.linkedin.com/in/vathiyarezky/) profile! Thank you.
 <!--- 
 | #  | Content |
 | ------------- | ------------- |
